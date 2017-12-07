@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[LargePictureCollectionView setImageUrlArray:]:LargePictureCollectionView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.imageUrlArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController buttonDone:]:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.navigationController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[LargePictureCollectionView collectionView:layout:sizeForItemAtIndexPath:]:LargePictureCollectionView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.frame.size.height">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[LargePictureCollectionView collectionView:numberOfItemsInSection:]:LargePictureCollectionView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.imageUrlArray.count">
+            </PersistentString>
+            <PersistentString
+               value = "self.imageUrlArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ListPictureCollectionView collectionView:layout:sizeForItemAtIndexPath:]:ListPictureCollectionView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.itemWidth">
+            </PersistentString>
+            <PersistentString
+               value = "self.frame.size.height">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ListPictureCollectionView collectionView:cellForItemAtIndexPath:]:ListPictureCollectionView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.item">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[LargePictureCollectionView collectionView:cellForItemAtIndexPath:]:LargePictureCollectionView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.item">
+            </PersistentString>
+            <PersistentString
+               value = "self.imageUrlArray">
+            </PersistentString>
+            <PersistentString
+               value = "cell.cellLabel.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ListPictureCollectionView collectionView:numberOfItemsInSection:]:ListPictureCollectionView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.imageUrlArray.count">
+            </PersistentString>
+            <PersistentString
+               value = "self.imageUrlArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[LargePictureViewController setImageUrlArray:]:LargePictureViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.largePictureCollectView.imageUrlArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
